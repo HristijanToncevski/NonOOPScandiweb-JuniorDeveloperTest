@@ -22,8 +22,8 @@ include_once "Database.php";
         <header class="header">
             <span>Product Add</span>
             <div class="btn-container">
-                <button form="product_form" type="submit" name="save_product">SAVE</button>
-                <button type="reset" onclick="window.location.href='index.php'">CANCEL</button>
+                <button form="product_form" type="submit" name="save_product" value="Save">Save</button>
+                <button type="reset" onclick="document.location='index.php'">CANCEL</button>
             </div>
             <hr>
         </header>
