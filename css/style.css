@@ -30,6 +30,7 @@
     font-size: 16px;
     padding: 2.5px;
     border-radius: 5px;
+    text-transform: uppercase;
 } 
 
 #sku-error, #name-error, #price-error, #productType-error, #size-error, #weight-error, #height-error, #width-error, #length-error{
