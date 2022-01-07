@@ -44,13 +44,13 @@
                 </div>
             <?php } ?>        
     </div>
-    
+    </form>
     <div class="footer-div">
         <div class="footer">
             <hr>
             <p>Scandiweb Test assignment</p>
         </div>
     </div>
-</form>
+
 </body>
 </html>
